@@ -1,4 +1,5 @@
-TOY STORE MANAGEMENT DESCRIPTION
+TOY STORE MANAGEMENT DESCRIPTION:
+
 This project has two modules: Admin and User, both of which perform registration, authentication, and CRUD operations themselves.
 
 i) ADMIN
