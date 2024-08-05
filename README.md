@@ -17,6 +17,7 @@ This project's goal is to oversee toy sales over the Internet. If a new retailer
 USER Section :
 
 The user has two options:
+
 i) NEW USER REGISTRATION
 ii) EXISTING USER LOGIN
 
